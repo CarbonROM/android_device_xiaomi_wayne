@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 3B3CE39DC981143E2E29B65A795F73D22FB93FAE 1588762427 +0200\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_device_xiaomi_wayne\nnonce 1588762427-F8073712436F8163F96150BCEB8240AE7AB9BE6A\n\n0000000000000000000000000000000000000000 c261caea1132bdfa0c4c60f65eb122382dafe4be refs/for/cr-8.0\n-----BEGIN PGP SIGNATURE-----\n\niQEzBAABCAAdFiEEOzzjncmBFD4uKbZaeV9z0i+5P64FAl6ylzsACgkQeV9z0i+5\nP64EWAf+K0hkKsd1158cOawRWzw/05lZugfL5j344igogqfJvdHlTJmO6n6BIx8T\nmiKiiRB9EiRpwetz9BykShhYrDyAlrpfAs1zzU8SVYiD34jQ+ocZoNbRkolrbcS2\nGc03DueL9rnLW2IllvUb9X5yvMjUYds1tBQh9oC9+t9Bby4pRsSSfvj3x45VdOZC\nuKvczZNxZWDXjKKb54QmQ8UPgCA2hM9wWz8Wh3hT+eBmK0zJqOqADoXcfuWjU1jc\nV4UT2tlqpCglN0CWpHIEETRcOmb1yBEv6YHqqowkDGL+65ppL2dhef4GxM1dT2Hl\nxfl8WvrMlleHGLkqKjsW9NP2vmZx6A\u003d\u003d\n\u003dCJjq\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
